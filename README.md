@@ -24,7 +24,3 @@ Tiny-Babel is a simple project that helps developers understand how different pa
 - **Traverser**: Walks through the AST nodes, allowing specific changes based on what it finds.
 - **Custom Syntax**: Helps you understand how to propose a new syntax.
 - **Custom Transformation**: Applies specific changes to your code
-
----
-
-This version uses simpler language to make it more accessible.
